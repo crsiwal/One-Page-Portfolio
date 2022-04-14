@@ -1,2 +1,6 @@
-# One-Page-Portfolio
-A One page portfolio website
+# One Page Portfolio Template #
+
+This is one page portfolio website developed in php.
+
+### What is this repository for? ###
+

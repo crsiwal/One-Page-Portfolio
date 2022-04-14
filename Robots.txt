@@ -1,0 +1,9 @@
+User-Agent: *
+Disallow: 
+Disallow: /font-awesome
+Disallow: /fonts
+Disallow: /js
+Disallow: /less
+Disallow: /css
+
+Sitemap: http://www.rsiwal.com/sitemap.xml
